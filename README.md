@@ -2,6 +2,7 @@
 
 ## Descrição Geral
 Este projeto implementa um sistema baseado no paradigma de Domain-Driven Design (DDD) para gerenciar informações de carros antigos. Ele é composto por camadas bem definidas para garantir separação de responsabilidades, facilidade de manutenção e expansão do código.
+Este projeto faz parte de meus estudos sobre python. Contribuição derivada das aulas do grande professor PycodeBr (https://www.youtube.com/@pycodebr)!
 
 ## Estrutura do Projeto
 O projeto segue a divisão clássica de DDD:
